@@ -1,0 +1,6 @@
+------->here i will put all my learning topics of rust what i have done till now<---------
+
+--->COMPLETED THE TOPICS UNDER BASIC SECTION OF WEB-ACTIX DOCUMENTATION
+
+
+

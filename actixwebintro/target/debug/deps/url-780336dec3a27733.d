@@ -1,0 +1,11 @@
+C:\Users\Chandan kumar\Desktop\rust\actixwebintro\target\debug\deps\liburl-780336dec3a27733.rmeta: C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\lib.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\host.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\origin.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\parser.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\path_segments.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\slicing.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\quirks.rs
+
+C:\Users\Chandan kumar\Desktop\rust\actixwebintro\target\debug\deps\url-780336dec3a27733.d: C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\lib.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\host.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\origin.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\parser.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\path_segments.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\slicing.rs C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\quirks.rs
+
+C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\lib.rs:
+C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\host.rs:
+C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\origin.rs:
+C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\parser.rs:
+C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\path_segments.rs:
+C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\slicing.rs:
+C:\Users\Chandan\ kumar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\quirks.rs:
