@@ -1,5 +1,6 @@
 ------->here i will put all my learning topics of rust what i have done till now<---------
 
+---------------------------------------------------------------------------
 ->COMPLETED THE TOPICS UNDER BASIC SECTION OF WEB-ACTIX DOCUMENTATION
 
 -->getting started
@@ -7,6 +8,17 @@
 -->server
 -->extracter
 -->handlers
+--------------------------------------------------------------------------------
+
+
+
+-------------------
+Date 22 sep 2024
+
+conneted mongoDB with actix web....by taking help of google and chatgpt
+----------------------------------------------------------------------------------
+
+
 
 
 
